@@ -1,0 +1,40 @@
+@media only screen and (max-width: 768px) {
+	.col-4, .col-6, .col-5{
+		width: 100% !important;
+	}
+
+	.cabeza{
+		height: 80px;
+		background-color: none;
+	}
+
+	.azulado{
+		background: #0471C0;
+	}
+
+	button{
+		font-size: 14px;
+		margin: 10px;
+	}
+
+	.capa{
+		display: none;
+	}
+
+	.col-1{
+		display: none !important;
+	}
+
+	.margin{
+    position: relative;
+    right: 0px;
+    line-height: 200%;
+    padding: 0 20px;
+	}
+
+	.oscuro{
+		height: 200px;
+	}
+
+}
+
